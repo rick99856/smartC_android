@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:background="#00373F">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="\n\n結合Open Data技術支援智慧城市\n"
+       android:gravity="center"
+       android:textSize="40dp"
+
+       android:textColor="@color/white"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n04-2815-C-366 -016 -E\n樹德科技大學\n\n\n\n\n"
+        android:gravity="center"
+        android:textSize="32dp"
+
+        android:textColor="@color/white"
+        android:id="@+id/textView"/>
+</LinearLayout>
